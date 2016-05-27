@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A.D.P.U.I.J</string>
+    <string name="title_activity_liga">Liga</string>
+    <string name="btn_name_liga">la liga</string>
+    <string name="btn_name_institucion">institucional</string>
+    <string name="btn_name_estadisticas">estadisticas</string>
+    <string name="btn_name_contacto">contacto</string>
+    <string name="btnIns_name_estatuto">estatuto</string>
+    <string name="btnIns_name_cd">comisión directiva</string>
+    <string name="btnIns_name_td">tribunal de disciplina</string>
+    <string name="btnIns_name_delegado">delegados</string>
+    <string name="btnIns_name_reglamento">reglamento a.d.p.u.i.j</string>
+</resources>
